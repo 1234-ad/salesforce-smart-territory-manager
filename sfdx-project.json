@@ -1,0 +1,18 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "SmartTerritoryManager",
+      "versionName": "ver 1.0",
+      "versionNumber": "1.0.0.NEXT"
+    }
+  ],
+  "name": "salesforce-smart-territory-manager",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "SmartTerritoryManager": "0Ho..."
+  }
+}
